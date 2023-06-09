@@ -26,7 +26,7 @@ Learn these at a slightly deeper level than surface-level. Eventually, pick one 
 
 Goal: learn low-level fundamentals of game dev.
 
-- [ ] 3D Graphics Programming from Scratch (IN PROGRESS)
+- [ ] 3D Graphics Programming from Scratch **(16%)**
 - [ ] Understanding Bitshift Operations
 - [ ] Raycasting Engine Programming 
 - [ ] Game Physics Engine Programming
