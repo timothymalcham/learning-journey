@@ -8,6 +8,10 @@ What I'm working on learning. Documenting it here for some reason.
 
 #### Languages
 
+Goal: learn lower-level programming languages to become a better programmer overall. 
+
+I have lots of experience with higher-level, dynamic languages (python, javascript, php), but I've grown more interested in different programming approaches lately. 
+
 Learn these at a slightly deeper level than surface-level. Eventually, pick one to become an "expert" in. 
 
 - [ ] Learn C (Pikuma courses)
@@ -38,10 +42,14 @@ Goal: understand how to write fast code, how cpu/hardware run programs
 
 #### Unreal Engine
 
+Goal: learn to build games well in UE.
+
 - [ ] Tom Looman UE Course
 
 
 #### Misc Programming
+
+Goal: Level up general programming skills by learning through creating.
 
 - [ ] Writing An Interpreter In Go
 - [ ] Build Your Own Redis with C/C++
