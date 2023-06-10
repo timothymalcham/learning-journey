@@ -6,6 +6,21 @@ What I'm working on learning. Documenting it here for some reason.
 ## THE LIST
 
 
+#### Math
+
+I suck at math, for now at least. 
+
+Learning through Khan Academy and Brilliant.
+
+- [ ] Pre-algebra (yeah, that's how little I know)
+- [ ] Algebra I
+- [ ] Algebra II
+- [ ] Pre-calculus
+- [ ] Calculus
+- [ ] Trigonometry
+- [ ] Linear Algebra
+
+
 #### Languages
 
 Goal: learn lower-level programming languages to become a better programmer overall. 
