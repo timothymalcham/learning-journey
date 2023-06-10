@@ -8,9 +8,13 @@ What I'm working on learning. Documenting it here for some reason.
 
 #### Math
 
-I suck at math, for now at least. 
+I suck at math, for now at least. I almost always got F's and D's in math during middle/high school. 
 
 Learning through Khan Academy and Brilliant.
+
+Per a recommendation on `r/learnmath` from someone going to school for math, use Khan Academy, but start at grade 1 and go from there to make sure you don't miss anything foundational. So, that's what I'm doing. 
+
+Theses things in particular I want to work up to and learn:
 
 - [ ] Pre-algebra (yeah, that's how little I know)
 - [ ] Algebra I
