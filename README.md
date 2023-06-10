@@ -52,7 +52,7 @@ Goal: learn low-level fundamentals of game dev.
 
 Goal: understand how to write fast code, how cpu/hardware run programs
 
-- [ ] The course (IN PROGRESS, waiting to finish Pikuma courses to keep working on this)
+- [ ] The course
 
 
 #### Unreal Engine
