@@ -1,6 +1,6 @@
 # Learning Journey
 
-What I'm working on learning. Documenting it here for some reason. 
+What I'm working on learning. Documenting it here to see the journey unfold. 
 
 
 ## THE LIST
@@ -12,9 +12,7 @@ I suck at math, for now at least. I almost always got F's and D's in math during
 
 Learning through Khan Academy and Brilliant.
 
-Per a recommendation on `r/learnmath` from someone going to school for math, use Khan Academy, but start at grade 1 and go from there to make sure you don't miss anything foundational. So, that's what I'm doing. 
-
-Theses things in particular I want to work up to and learn:
+These things, in particular, I want to work up to and learn:
 
 - [ ] Pre-algebra (yeah, that's how little I know)
 - [ ] Algebra I
@@ -29,9 +27,9 @@ Theses things in particular I want to work up to and learn:
 
 Goal: learn lower-level programming languages to become a better programmer overall. 
 
-I have lots of experience with higher-level, dynamic languages (python, javascript, php), but I've grown more interested in different programming approaches lately. 
+I have lots of experience with higher-level, dynamic languages (python, javascript, PHP), but I've grown more interested in different programming approaches lately. 
 
-Learn these at a slightly deeper level than surface-level. Eventually, pick one to become an "expert" in. 
+Learn these at a slightly deeper level than the surface level. Eventually, pick one to become an "expert" in. 
 
 - [ ] Learn C (Pikuma courses)
 - [ ] Learn C++ (The Cherno YT vids)
@@ -39,6 +37,7 @@ Learn these at a slightly deeper level than surface-level. Eventually, pick one 
 - [ ] Learn Scala
 - [ ] Learn Zig
 - [ ] Learn Rust
+- [ ] Learn Assembly
 
 
 ### Pikuma Courses 
@@ -54,25 +53,34 @@ Goal: learn low-level fundamentals of game dev.
 
 ### Casey Muratori's Performance-Aware Programming Series
 
-Goal: understand how to write fast code, how cpu/hardware run programs
+Goal: understand how to write fast code, how CPU/hardware runs programs
 
 - [ ] The course
 
 
 ### Unreal Engine
 
-Goal: learn to build games well in UE.
+Goal: learn to build well-crafted games in UE.
 
 - [ ] Tom Looman UE Course
 
 
 ### Misc Programming
 
-Goal: Level up general programming skills by learning through creating.
+Goal: Level up general programming/comp-sci skills by learning through creating.
 
 - [ ] Writing An Interpreter In Go
 - [ ] Build Your Own Redis with C/C++
 - [ ] Build Your Own Database From Scratch
+
+
+### Art / Design / 3D / writing
+
+- [ ] Perspective
+- [ ] Color Theory
+- [ ] Blender (modeling, rigging, etc.)
+- [ ] Learn to write well-crafted stories
+- [ ] Learn to write comedy/humor
 
 
 # THE JOURNEY:
