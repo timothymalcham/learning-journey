@@ -32,7 +32,7 @@ These things, in particular, I want to work up to and learn:
 
 Goal: learn lower-level programming languages to become a better programmer overall. 
 
-I have lots of experience with higher-level, dynamic languages (python, javascript, PHP), but I've grown more interested in different programming approaches lately. 
+I years of experience with higher-level, dynamic languages (Python, JS/typescript, PHP), but I've grown more interested in different programming approaches lately. Mainly, lower-level stuff.
 
 Learn these at a slightly deeper level than the surface level. Eventually, pick one to become an "expert" in. 
 
@@ -60,7 +60,7 @@ Goal: learn low-level fundamentals of game dev.
 
 Goal: understand how to write fast code, how CPU/hardware runs programs
 
-- [ ] The course
+- [ ] Online Video Course
 
 
 ### Unreal Engine
@@ -70,13 +70,15 @@ Goal: learn to build well-crafted games in UE.
 - [ ] Tom Looman UE Course
 
 
-### Misc Programming
+### Comp Sci / Misc Programming
 
 Goal: Level up general programming/comp-sci skills by learning through creating.
 
-- [ ] Writing An Interpreter In Go
-- [ ] Build Your Own Redis with C/C++
-- [ ] Build Your Own Database From Scratch
+- [ ] Algorithms / Data Structures in C++ (Udemy Course)
+- [ ] Writing An Interpreter In Go (Book)
+- [ ] Build Your Own Redis with C/C++ (Book)
+- [ ] Build Your Own Database From Scratch (Book)
+- [ ] From Source Code To Machine Code (Book)
 
 
 ### Art / Design / 3D / writing
