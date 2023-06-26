@@ -88,6 +88,7 @@ Goal: Level up general programming/comp-sci skills by learning through creating.
 - [ ] Blender (modeling, rigging, etc.)
 - [ ] Learn to write well-crafted stories
 - [ ] Learn to write comedy/humor
+- [ ] [Learn how to write shaders](https://thebookofshaders.com/00/)
 
 
 # THE JOURNEY:
