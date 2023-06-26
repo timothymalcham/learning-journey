@@ -89,6 +89,10 @@ Goal: Level up general programming/comp-sci skills by learning through creating.
 - [ ] Learn to write well-crafted stories
 - [ ] Learn to write comedy/humor
 - [ ] [Learn how to write shaders](https://thebookofshaders.com/00/)
+- [ ] [Learn 3D Game Shaders](https://lettier.github.io/3d-game-shaders-for-beginners/)
+- [ ] [Learn OpenGL](https://learnopengl.com/)
+
+[terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding#videos)
 
 
 # THE JOURNEY:
