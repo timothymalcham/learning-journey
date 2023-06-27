@@ -39,9 +39,6 @@ Learn these at a slightly deeper level than the surface level. Eventually, pick 
 - [ ] Learn C (Pikuma courses)
 - [ ] Learn C++ (The Cherno YT vids)
 - [ ] Learn Go 
-- [ ] Learn Scala
-- [ ] Learn Zig
-- [ ] Learn Rust
 - [ ] Learn Assembly
 
 
@@ -68,6 +65,13 @@ Goal: understand how to write fast code, how CPU/hardware runs programs
 Goal: learn to build well-crafted games in UE.
 
 - [ ] Tom Looman UE Course
+
+
+### Web dev
+
+Goal: I still need to grow my skills as a web developer for contract work, making money, building products, etc. Specifically, I want to learn how to build web apps in Go. 
+
+- [ ] [Let's Go!](https://lets-go.alexedwards.net/)
 
 
 ### Comp Sci / Misc Programming
