@@ -109,4 +109,7 @@ This is what I'm doing:
 
 <img width="726" alt="image" src="https://github.com/timothymalcham/learning-journey/assets/2825063/83c2f7dd-0fe2-425f-8a19-fca714150a7f">
 
+
 I've started to devote 2 hours a day to studying. 1 hour for math, 1 hour for programming/comp-sci related learning. 
+
+This month I've been working on basic math skills, working through The Cherno's C++ YT videos, and starting the Let's Go book. 
