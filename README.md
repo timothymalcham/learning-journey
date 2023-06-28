@@ -5,12 +5,6 @@ What I'm working on learning. Documenting it here to see the journey unfold.
 
 ## THE LIST
 
-
-### Highest Priority to Learn Right Now:
-- Pre-Algebra & Algebra
-- Low-level game dev & graphics programming
-
-
 ### Math
 
 I suck at math, for now at least. I almost always got F's and D's in math during middle/high school. 
