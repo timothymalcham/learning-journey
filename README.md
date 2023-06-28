@@ -107,3 +107,7 @@ This is what I'm doing:
 I've started to devote 2 hours a day to studying. 1 hour for math, 1 hour for programming/comp-sci related learning. 
 
 This month I've been working on basic math skills, working through The Cherno's C++ YT videos, and starting the Let's Go book. 
+
+#### Go, byte slices
+
+While writing Go, I didn't know about byte slices but had to use them very early on. I found this article helpful: https://medium.com/@tyler_brewer2/bits-bytes-and-byte-slices-in-go-8a99012dcc8f
