@@ -107,6 +107,7 @@ This is what I'm doing:
 I've started to devote 2 hours a day to studying. 1 hour for math, 1 hour for programming/comp-sci related learning. 
 
 This month I've been working on basic math skills, working through The Cherno's C++ YT videos, and starting the Let's Go book. 
+---
 
 #### Go, byte slices
 
@@ -115,4 +116,6 @@ While writing Go, I didn't know about byte slices but had to use them very early
 
 ## July 2023
 
-Still working on foundational math concepts, learning c++, and working through the Go web apps book. 
+Still working on foundational math concepts, learning C++, and working through the Go web apps book. 
+
+---
