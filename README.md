@@ -32,7 +32,8 @@ Learn these at a slightly deeper level than the surface level. Eventually, pick 
 
 - [ ] Learn C (Pikuma courses)
 - [ ] Learn C++ (The Cherno YT vids)
-- [ ] Learn Go 
+- [ ] Learn Go
+- [ ] Learn Rust
 - [ ] Learn Assembly
 
 
