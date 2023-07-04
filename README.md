@@ -103,7 +103,7 @@ This is what I'm doing:
 
 <img width="726" alt="image" src="https://github.com/timothymalcham/learning-journey/assets/2825063/83c2f7dd-0fe2-425f-8a19-fca714150a7f">
 
-
+---
 I've started to devote 2 hours a day to studying. 1 hour for math, 1 hour for programming/comp-sci related learning. 
 
 This month I've been working on basic math skills, working through The Cherno's C++ YT videos, and starting the Let's Go book. 
@@ -111,3 +111,8 @@ This month I've been working on basic math skills, working through The Cherno's 
 #### Go, byte slices
 
 While writing Go, I didn't know about byte slices but had to use them very early on. I found this article helpful: https://medium.com/@tyler_brewer2/bits-bytes-and-byte-slices-in-go-8a99012dcc8f
+
+
+## July 2023
+
+Still working on foundational math concepts, learning c++, and working through the Go web apps book. 
